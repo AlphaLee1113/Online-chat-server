@@ -1,6 +1,6 @@
 Please type "npm install" before running the program
 
-After that please type "node chat_server.js" and goto "http://localhost:8000/" to play the game.
+After that please type "node chat_server.js" and goto "http://localhost:8000/" to run the chatroom program.
 
 Now you can register and sign up the chatroom.
 
